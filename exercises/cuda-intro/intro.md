@@ -33,8 +33,8 @@ Choose the C or Fortran version.
 You can get this from GitHub:
 
 ```
-git clone https://github.com/EPCCed/APT-CUDA.git
-cd APT-CUDA/exercises/cuda-intro/
+git clone .git
+cd /exercises/cuda-intro/
 ```
 
 ## Note
