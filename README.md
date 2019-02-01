@@ -1,1 +1,2 @@
 # pages-expt
+{{ site.title }}
